@@ -117,15 +117,15 @@ except ImportError:
     description = ''
 
 setup(
-    name="django-graphos",
+    name="django-graphos-3",
     version=get_version(),
-    description="Django app to provide a JS agnostic way to work with charts.",
+    description="Django app to provide a JS agnostic way to work with charts for Python 3+",
     #long_description=read("README.md"),
     long_description=description,
-    author="Agiliq",
-    author_email="hello@agiliq.com",
+    author="modusvivendi",
+    author_email="yellolegalpad@gmail.com",
     license="BSD",
-    url="http://github.com/agiliq/django-graphos",
+    url="http://github.com/ModusVivendi/django-graphos",
     packages=find_packages(),
     package_data=find_package_data("graphos", only_in_packages=False),
     classifiers=[
