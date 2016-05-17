@@ -6,7 +6,7 @@ Graphos
 Graphos is a Django app to normalize data to create beautiful charts. 
 
 * Demo: [http://agiliq.com/demo/graphos/](http://agiliq.com/demo/graphos/).  
-* Docs: [http://agiliq.com/docs/django-graphos/](http://agiliq.com/docs/django-graphos/).
+* Docs: [https://pythonhosted.org/django-graphos-3/](https://pythonhosted.org/django-graphos-3/).
 
 ### Supported Backends:
 
@@ -40,6 +40,7 @@ Graphos is a Django app to normalize data to create beautiful charts.
 * Candlestick charts
 * Pie chart
 * Treemap chart
+* Area chart
 
 #### YUI
 
