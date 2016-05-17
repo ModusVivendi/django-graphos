@@ -1,7 +1,7 @@
 Graphos
 ----------------
 
-[![Build Status](https://travis-ci.org/agiliq/django-graphos.png)](https://travis-ci.org/agiliq/django-graphos)
+[![Build Status](https://travis-ci.org/ModusVivendi/django-graphos.svg?branch=master)](https://travis-ci.org/ModusVivendi/django-graphos)
 
 Graphos is a Django app to normalize data to create beautiful charts. 
 
